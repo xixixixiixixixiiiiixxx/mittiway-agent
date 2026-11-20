@@ -38,10 +38,13 @@ class LocalServer(ThreadingHTTPServer):
         super().__init__(address, Handler)
         self.kb = KnowledgeBase(ROOT / "data" / "knowledge.json")
         self.agent = ServiceAgent(self.kb)
-        self.store = Store(data_path or ROOT / "runtime" / "service.sqlite3")
+        default_db = ROOT / "runtime" / "service.sqlite3"
+        self.store = Store(data_path or os.getenv("APP_DB_PATH") or default_db)
         self.locks = {}
         self.locks_guard = threading.Lock()
         self.allowed_hosts = {f"localhost:{self.server_port}", f"127.0.0.1:{self.server_port}"}
+        self.public_suffix = os.getenv("APP_PUBLIC_SUFFIX","")
+        self.public_host = os.getenv("APP_PUBLIC_HOST","")
 
     def lock_for(self,cid):
         with self.locks_guard:
@@ -55,13 +58,27 @@ class Handler(BaseHTTPRequestHandler):
         return
 
     def common_check(self):
-        if self.headers.get("Host") not in self.server.allowed_hosts:
+        host = self.headers.get("Host")
+        suffix = self.server.public_suffix
+        extra = self.server.public_host
+        host_ok = host in self.server.allowed_hosts
+        if not host_ok and host:
+            host_ok = (suffix and host.endswith(suffix)) or (extra and host == extra)
+        if not host_ok:
             self.error(403,"此演示只允许本机访问")
             return False
         origin = self.headers.get("Origin")
-        if origin and origin not in {"http://"+h for h in self.server.allowed_hosts}:
-            self.error(403,"不接受跨站请求")
-            return False
+        if origin:
+            origin_ok = origin in {f"http://{host}", f"https://{host}"}
+            if not origin_ok:
+                try:
+                    origin_host = urlparse(origin).hostname or ""
+                except ValueError:
+                    origin_host = ""
+                origin_ok = (suffix and origin_host.endswith(suffix)) or (extra and origin_host == extra)
+            if not origin_ok:
+                self.error(403,"不接受跨站请求")
+                return False
         cookie = SimpleCookie()
         try:
             cookie.load(self.headers.get("Cookie", ""))
@@ -82,7 +99,8 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header("Referrer-Policy","no-referrer")
         self.send_header("Content-Security-Policy", "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'")
         if getattr(self,"new_cookie",False):
-            self.send_header("Set-Cookie",f"mittiway_browser={self.owner}; HttpOnly; SameSite=Strict; Path=/")
+            secure = "; Secure" if (self.server.public_suffix or self.server.public_host) else ""
+            self.send_header("Set-Cookie",f"mittiway_browser={self.owner}; HttpOnly; SameSite=Strict; Path=/{secure}")
         for k,v in (extra or {}).items():
             self.send_header(k,v)
         self.end_headers()
@@ -202,11 +220,15 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     load_env()
     parser = ArgumentParser()
-    parser.add_argument("--port",type=int,default=8765)
+    parser.add_argument("--port",type=int,default=int(os.getenv("APP_PORT","8765")))
+    parser.add_argument("--host",default=os.getenv("APP_HOST","127.0.0.1"))
     args = parser.parse_args()
-    server = LocalServer(("127.0.0.1",args.port))
-    print(f"Mittiway service demo: http://127.0.0.1:{server.server_port}",flush=True)
-    print("Mode: local simulation. Tickets are saved locally only.",flush=True)
+    server = LocalServer((args.host,args.port))
+    print(f"Mittiway service demo: http://{args.host}:{server.server_port}",flush=True)
+    if server.public_suffix or server.public_host:
+        print("Mode: public deployment. Tickets are stored in the container only and reset on restart.",flush=True)
+    else:
+        print("Mode: local simulation. Tickets are saved locally only.",flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:
