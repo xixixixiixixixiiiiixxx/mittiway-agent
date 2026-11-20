@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-20",
+  "checks": [
+    "MTW-Z15 参数答复及画册 PDF 第5页引用",
+    "来源窗口与原文链接",
+    "MTW-T50 两来源速度和供电差异表",
+    "本地工单保存及未发送厂家标识",
+    "知识库搜索 T50H 返回准确型号",
+    "开发实施页面架构与阶段",
+    "375px 故障咨询未生成 E001 定义"
+  ],
+  "viewports": [
+    {
+      "bodyWidth": 1440,
+      "height": 1000,
+      "horizontalOverflow": false,
+      "inputInViewport": true,
+      "sendInViewport": true,
+      "visibleView": "view-chat",
+      "width": 1440
+    },
+    {
+      "bodyWidth": 1024,
+      "height": 768,
+      "horizontalOverflow": false,
+      "inputInViewport": true,
+      "sendInViewport": true,
+      "visibleView": "view-chat",
+      "width": 1024
+    },
+    {
+      "bodyWidth": 768,
+      "height": 1024,
+      "horizontalOverflow": false,
+      "inputInViewport": true,
+      "sendInViewport": true,
+      "visibleView": "view-chat",
+      "width": 768
+    },
+    {
+      "bodyWidth": 375,
+      "height": 850,
+      "horizontalOverflow": false,
+      "inputInViewport": true,
+      "sendInViewport": true,
+      "visibleView": "view-chat",
+      "width": 375
+    }
+  ],
+  "consoleErrors": [],
+  "limits": [
+    "模型连接器未使用真实密钥调用",
+    "未接企业 SSO、CRM、维修手册或向量模型"
+  ]
+}

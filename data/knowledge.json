@@ -1,0 +1,1418 @@
+{
+  "company": "迈特威智能设备（广东）有限公司",
+  "brand": "MITTIWAY",
+  "as_of": "2026-11-20",
+  "mode": "local_demo",
+  "product_count": 26,
+  "documents": [
+    {
+      "id": "mtw-z15",
+      "kind": "product",
+      "model": "MTW-Z15",
+      "models": [
+        "MTW-Z15"
+      ],
+      "title": "标准折盒机",
+      "category": "折盒成型",
+      "industries": [
+        "电子产品",
+        "食品",
+        "电商",
+        "化妆品",
+        "玩具",
+        "医药"
+      ],
+      "summary": "用于飞机盒、天地盖等纸盒成型，可单机运行或配套包装线。",
+      "specs": {
+        "参考速度": "720–1200 个/小时",
+        "适用规格": "L170–270 × W120–170 × H30–60 mm",
+        "供电": "220V / 50Hz / 2kW",
+        "参考换型时间": "10–15 分钟（手动调节）"
+      },
+      "text": "MTW-Z15 标准折盒机。用于飞机盒、天地盖等纸盒成型，可单机运行或配套包装线。 适用行业：电子产品、食品、电商、化妆品、玩具、医药。参考速度：720–1200 个/小时。 适用规格：L170–270 × W120–170 × H30–60 mm。 供电：220V / 50Hz / 2kW。 参考换型时间：10–15 分钟（手动调节）。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-5",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=5",
+          "page": 5,
+          "locator": "PDF 第 5 页 · 印刷页 06",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "web-z15",
+          "title": "迈特威官网 · MTW-Z15",
+          "type": "web",
+          "url": "https://www.miteway.com/58/1015",
+          "locator": "产品参数表",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "9498eb2e5867cb5e26b4c947cf2503af708abfe03a35514a4438d48a3f3fffe2"
+    },
+    {
+      "id": "mtw-zh25d",
+      "kind": "product",
+      "model": "MTW-ZH25D",
+      "models": [
+        "MTW-ZH25D"
+      ],
+      "title": "自动钉盒机",
+      "category": "折盒成型",
+      "industries": [
+        "电子产品",
+        "汽车用品",
+        "电商",
+        "五金"
+      ],
+      "summary": "同步取盒、冲压成型与钉盒，画册注明配套打钉机使用。",
+      "specs": {
+        "参考速度": "900–1500 个/小时",
+        "适用规格": "L300–500 × W300–400 × H60–100 mm"
+      },
+      "text": "MTW-ZH25D 自动钉盒机。同步取盒、冲压成型与钉盒，画册注明配套打钉机使用。 适用行业：电子产品、汽车用品、电商、五金。参考速度：900–1500 个/小时。 适用规格：L300–500 × W300–400 × H60–100 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-6",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=6",
+          "page": 6,
+          "locator": "PDF 第 6 页 · 印刷页 07",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "f2131ed77f2eb9f1b912d1786a3ac0167300a09528b6b9979f1e4898e3fe93cc"
+    },
+    {
+      "id": "mtw-ct300",
+      "kind": "product",
+      "model": "MTW-CT300",
+      "models": [
+        "MTW-CT300"
+      ],
+      "title": "裹包机",
+      "category": "折盒成型",
+      "industries": [
+        "电子产品",
+        "食品",
+        "电商",
+        "饮料",
+        "玩具",
+        "医药",
+        "五金"
+      ],
+      "summary": "可结合自动取料成型、理料、装料和喷胶上盖，支持整线衔接。",
+      "specs": {
+        "参考速度": "300–600 个/小时",
+        "适用规格": "L200–400 × W200–300 × H200–300 mm"
+      },
+      "text": "MTW-CT300 裹包机。可结合自动取料成型、理料、装料和喷胶上盖，支持整线衔接。 适用行业：电子产品、食品、电商、饮料、玩具、医药、五金。参考速度：300–600 个/小时。 适用规格：L200–400 × W200–300 × H200–300 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-6",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=6",
+          "page": 6,
+          "locator": "PDF 第 6 页 · 印刷页 08",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "16f81fc73b558508481a4d7ef84e22528f0cdb1143f2d0fcdb2d209629eea2e5"
+    },
+    {
+      "id": "mtw-zh25r",
+      "kind": "product",
+      "model": "MTW-ZH25R",
+      "models": [
+        "MTW-ZH25R"
+      ],
+      "title": "热熔胶高速折盒机",
+      "category": "折盒成型",
+      "industries": [
+        "电子产品",
+        "食品",
+        "电商",
+        "饮料",
+        "玩具",
+        "医药",
+        "五金",
+        "服装"
+      ],
+      "summary": "取盒、自动喷胶、冲压成型同步完成，画册注明需配套热熔胶机。",
+      "specs": {
+        "参考速度": "1500–2400 个/小时",
+        "适用规格": "L250–350 × W200–300 × H60–100 mm"
+      },
+      "text": "MTW-ZH25R 热熔胶高速折盒机。取盒、自动喷胶、冲压成型同步完成，画册注明需配套热熔胶机。 适用行业：电子产品、食品、电商、饮料、玩具、医药、五金、服装。参考速度：1500–2400 个/小时。 适用规格：L250–350 × W200–300 × H60–100 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-7",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=7",
+          "page": 7,
+          "locator": "PDF 第 7 页 · 印刷页 09",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "1b10b0bca0ef9a7a67695540f9afc2092e467e3e1d4bb58a59946787afc0627e"
+    },
+    {
+      "id": "mtw-zh25f",
+      "kind": "product",
+      "model": "MTW-ZH25F",
+      "models": [
+        "MTW-ZH25F"
+      ],
+      "title": "水果盒折盒机",
+      "category": "折盒成型",
+      "industries": [
+        "生鲜果蔬",
+        "玩具",
+        "五金"
+      ],
+      "summary": "面向水果盒等纸盒成型，支持折盒或配热熔胶封盒。",
+      "specs": {
+        "参考速度": "1500–1800 个/小时",
+        "适用规格": "L250–350 × W200–300 × H50–100 mm"
+      },
+      "text": "MTW-ZH25F 水果盒折盒机。面向水果盒等纸盒成型，支持折盒或配热熔胶封盒。 适用行业：生鲜果蔬、玩具、五金。参考速度：1500–1800 个/小时。 适用规格：L250–350 × W200–300 × H50–100 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-7",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=7",
+          "page": 7,
+          "locator": "PDF 第 7 页 · 印刷页 10",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "5877e328005e56f2386981e812c1b59c83f3dcd17602e0f5d60b08f5ce800a64"
+    },
+    {
+      "id": "mtw-g15r",
+      "kind": "product",
+      "model": "MTW-G15R",
+      "models": [
+        "MTW-G15R"
+      ],
+      "title": "合盖机",
+      "category": "折盒成型",
+      "industries": [
+        "电子产品",
+        "礼品",
+        "电商",
+        "日用品",
+        "玩具",
+        "五金"
+      ],
+      "summary": "用于盒盖折叠与合盖，可按方案配置热熔胶机。",
+      "specs": {
+        "参考速度": "720–900 个/小时",
+        "适用规格": "L250–350 × W200–300 × H40–70 mm"
+      },
+      "text": "MTW-G15R 合盖机。用于盒盖折叠与合盖，可按方案配置热熔胶机。 适用行业：电子产品、礼品、电商、日用品、玩具、五金。参考速度：720–900 个/小时。 适用规格：L250–350 × W200–300 × H40–70 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-8",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=8",
+          "page": 8,
+          "locator": "PDF 第 8 页 · 印刷页 11",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "bcb74347dc2f304a480c879c4fbaa5699defb7342a379bec362c76c7c3d6a19a"
+    },
+    {
+      "id": "mtw-zh15r",
+      "kind": "product",
+      "model": "MTW-ZH15R",
+      "models": [
+        "MTW-ZH15R"
+      ],
+      "title": "三角立柱折盒机",
+      "category": "折盒成型",
+      "industries": [
+        "生鲜果蔬",
+        "食品",
+        "礼品",
+        "日用品",
+        "膨化食品"
+      ],
+      "summary": "面向带三角立柱的盒型，提供自动取盒、喷胶与冲压成型。",
+      "specs": {
+        "参考速度": "18–20 个/分钟",
+        "适用规格": "L400–600 × W300–400 × H100–200 mm"
+      },
+      "text": "MTW-ZH15R 三角立柱折盒机。面向带三角立柱的盒型，提供自动取盒、喷胶与冲压成型。 适用行业：生鲜果蔬、食品、礼品、日用品、膨化食品。参考速度：18–20 个/分钟。 适用规格：L400–600 × W300–400 × H100–200 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-8",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=8",
+          "page": 8,
+          "locator": "PDF 第 8 页 · 印刷页 12",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "62761f85880f3c94e14d05dba4f7e44c7b8784787404ad94f758b09b8a02d9d2"
+    },
+    {
+      "id": "mtw-cartoner-a3",
+      "kind": "product",
+      "model": "MTW-Cartoner A3",
+      "models": [
+        "MTW-Cartoner A3"
+      ],
+      "title": "成型装盒一体机",
+      "category": "折盒成型",
+      "industries": [
+        "食品",
+        "礼品",
+        "日用品",
+        "化妆品",
+        "医药",
+        "咖啡",
+        "巧克力",
+        "电子产品"
+      ],
+      "summary": "集取盒、成型、放产品与喷胶粘合于一体。",
+      "specs": {
+        "参考速度": "600–900 个/小时",
+        "适用规格": "L200–300 × W200–300 × H60–90 mm"
+      },
+      "text": "MTW-Cartoner A3 成型装盒一体机。集取盒、成型、放产品与喷胶粘合于一体。 适用行业：食品、礼品、日用品、化妆品、医药、咖啡、巧克力、电子产品。参考速度：600–900 个/小时。 适用规格：L200–300 × W200–300 × H60–90 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-9",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=9",
+          "page": 9,
+          "locator": "PDF 第 9 页 · 印刷页 13–14",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "b219f0df0602402f9fe2c915fe96965168b1821c73f867b8432e5d47dcebfa23"
+    },
+    {
+      "id": "mtw-zx10",
+      "kind": "product",
+      "model": "MTW-ZX10",
+      "models": [
+        "MTW-ZX10"
+      ],
+      "title": "全自动高速装箱机",
+      "category": "装箱开封箱",
+      "industries": [
+        "食品",
+        "礼品",
+        "日用品",
+        "化妆品",
+        "医药",
+        "咖啡",
+        "电子产品"
+      ],
+      "summary": "取箱、自动堆叠物料、装箱、送箱；速度单位为包/分钟，不能当作箱/分钟。",
+      "specs": {
+        "参考速度": "120 包/分钟（产品装箱速度）",
+        "适用规格": "L550–650 × W350–450 × H150–400 mm"
+      },
+      "text": "MTW-ZX10 全自动高速装箱机。取箱、自动堆叠物料、装箱、送箱；速度单位为包/分钟，不能当作箱/分钟。 适用行业：食品、礼品、日用品、化妆品、医药、咖啡、电子产品。参考速度：120 包/分钟（产品装箱速度）。 适用规格：L550–650 × W350–450 × H150–400 mm。",
+      "note": "画册的 120 bags/min 为产品包数，整线箱速需另行核算。",
+      "sources": [
+        {
+          "id": "catalog-10",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=10",
+          "page": 10,
+          "locator": "PDF 第 10 页 · 印刷页 15–16",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "a7adf4d90a767cbc606815334a106945bb86cf60002fcd06f93de9f29a6232f3"
+    },
+    {
+      "id": "mtw-tk50",
+      "kind": "product",
+      "model": "MTW-TK50",
+      "models": [
+        "MTW-TK50"
+      ],
+      "title": "开箱套袋一体机",
+      "category": "套袋封口",
+      "industries": [
+        "瓶盖压泵",
+        "汽车用品",
+        "医药",
+        "食品"
+      ],
+      "summary": "集开箱、封底、套袋、翻边与鼓风出箱于一体。",
+      "specs": {
+        "参考速度": "300–600 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm",
+        "供电": "380V / 50Hz / 8kW"
+      },
+      "text": "MTW-TK50 开箱套袋一体机。集开箱、封底、套袋、翻边与鼓风出箱于一体。 适用行业：瓶盖压泵、汽车用品、医药、食品。参考速度：300–600 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。 供电：380V / 50Hz / 8kW。",
+      "note": "画册型号 TK50，不能直接等同于官网 MT540。",
+      "sources": [
+        {
+          "id": "catalog-11",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=11",
+          "page": 11,
+          "locator": "PDF 第 11 页 · 印刷页 18",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "d87600a025bbab95165904fb10ac002afd636872c95e4427c861d9e902efb8c1"
+    },
+    {
+      "id": "mtw-t50",
+      "kind": "product",
+      "model": "MTW-T50",
+      "models": [
+        "MTW-T50"
+      ],
+      "title": "纸箱内套袋机",
+      "category": "套袋封口",
+      "industries": [
+        "油脂化工",
+        "颗粒粉末",
+        "散装水果",
+        "瓶盖压泵",
+        "汽车用品",
+        "医药"
+      ],
+      "summary": "完成纸箱进箱、套袋、翻边与鼓风出箱，可配提袋封口或折袋设备。",
+      "specs": {
+        "参考速度": "360–480 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm",
+        "供电": "380V / 50Hz / 8kW",
+        "气源": "600 NL/min / 0.6–0.8 MPa",
+        "参考换型时间": "10–20 分钟（手动调节）"
+      },
+      "text": "MTW-T50 纸箱内套袋机。完成纸箱进箱、套袋、翻边与鼓风出箱，可配提袋封口或折袋设备。 适用行业：油脂化工、颗粒粉末、散装水果、瓶盖压泵、汽车用品、医药。参考速度：360–480 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。 供电：380V / 50Hz / 8kW。 气源：600 NL/min / 0.6–0.8 MPa。 参考换型时间：10–20 分钟（手动调节）。",
+      "note": "与官网同名型号的速度、供电及机重等字段存在差异；报价和工艺决策须确认设备序列号与配置。",
+      "sources": [
+        {
+          "id": "catalog-12",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=12",
+          "page": 12,
+          "locator": "PDF 第 12 页 · 印刷页 19",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "633e7aef34a0c587fe60f289d51e58540118f461caef34b456f15b4b4c4fe1a0"
+    },
+    {
+      "id": "mtw-tf50",
+      "kind": "product",
+      "model": "MTW-TF50",
+      "models": [
+        "MTW-TF50"
+      ],
+      "title": "纸箱内提袋封口机",
+      "category": "套袋封口",
+      "industries": [
+        "油脂化工",
+        "颗粒粉末",
+        "散装水果",
+        "瓶盖压泵",
+        "汽车用品",
+        "医药"
+      ],
+      "summary": "完成提袋、封口及折袋压袋，与套袋设备配套。",
+      "specs": {
+        "参考速度": "360–480 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm",
+        "供电": "380V / 50Hz / 6kW"
+      },
+      "text": "MTW-TF50 纸箱内提袋封口机。完成提袋、封口及折袋压袋，与套袋设备配套。 适用行业：油脂化工、颗粒粉末、散装水果、瓶盖压泵、汽车用品、医药。参考速度：360–480 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。 供电：380V / 50Hz / 6kW。",
+      "note": "本画册为 TF50；官网另有 FT50，未确认是同一配置。",
+      "sources": [
+        {
+          "id": "catalog-12",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=12",
+          "page": 12,
+          "locator": "PDF 第 12 页 · 印刷页 20",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "8b48286eb5f7c4ed1cf96a3490e5905bec045619199b961ebaa79a094347fc09"
+    },
+    {
+      "id": "mtw-cmt50",
+      "kind": "product",
+      "model": "MTW-CMT50",
+      "models": [
+        "MTW-CMT50"
+      ],
+      "title": "成品袋套袋机",
+      "category": "套袋封口",
+      "industries": [
+        "化学品",
+        "颗粒粉末",
+        "防水材料",
+        "食品",
+        "医药",
+        "新能源"
+      ],
+      "summary": "适用于成品袋内套，选择前应核对袋型、袋尺寸、容器及材质。",
+      "specs": {
+        "参考速度": "360–480 个/小时；高速版 1000–1200 个/小时",
+        "适用规格": "L300–500 × W300–400 × H60–100 mm（按画册）"
+      },
+      "text": "MTW-CMT50 成品袋套袋机。适用于成品袋内套，选择前应核对袋型、袋尺寸、容器及材质。 适用行业：化学品、颗粒粉末、防水材料、食品、医药、新能源。参考速度：360–480 个/小时；高速版 1000–1200 个/小时。 适用规格：L300–500 × W300–400 × H60–100 mm（按画册）。",
+      "note": "画册中高度范围与部分同类机型差别较大，企业审核前不可自行改写。",
+      "sources": [
+        {
+          "id": "catalog-13",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=13",
+          "page": 13,
+          "locator": "PDF 第 13 页 · 印刷页 21",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "83b4453e42988fd8d50d39a06794be4ef7a3add629adf69c844e6c2803eb074e"
+    },
+    {
+      "id": "mtw-tz50",
+      "kind": "product",
+      "model": "MTW-TZ50",
+      "models": [
+        "MTW-TZ50"
+      ],
+      "title": "自动扎带机",
+      "category": "套袋封口",
+      "industries": [
+        "化学品",
+        "颗粒粉末",
+        "防水材料",
+        "酱料",
+        "日用品",
+        "化妆品"
+      ],
+      "summary": "可完成提袋、扎口与折袋压袋，画册展示铁丝、尼龙扎带方案。",
+      "specs": {
+        "参考速度": "200–300 个/小时",
+        "适用规格": "L300–500 × W300–400 × H60–100 mm（按画册）"
+      },
+      "text": "MTW-TZ50 自动扎带机。可完成提袋、扎口与折袋压袋，画册展示铁丝、尼龙扎带方案。 适用行业：化学品、颗粒粉末、防水材料、酱料、日用品、化妆品。参考速度：200–300 个/小时。 适用规格：L300–500 × W300–400 × H60–100 mm（按画册）。",
+      "note": "画册扎带机型号为 TZ50；ZD50 在本画册指折袋机。",
+      "sources": [
+        {
+          "id": "catalog-13",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=13",
+          "page": 13,
+          "locator": "PDF 第 13 页 · 印刷页 22",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "cad2723cf33a6a0c1bc49c70cc9040ed31cc6bb035038462f22284d5c1efa71c"
+    },
+    {
+      "id": "mtw-t50y",
+      "kind": "product",
+      "model": "MTW-T50Y",
+      "models": [
+        "MTW-T50Y"
+      ],
+      "title": "圆桶内套袋机",
+      "category": "套袋封口",
+      "industries": [
+        "防水材料",
+        "颗粒粉末",
+        "化学品",
+        "食品",
+        "医药",
+        "新能源"
+      ],
+      "summary": "对圆桶进桶、套袋、翻边与出桶，可配圆桶内提袋封口机。",
+      "specs": {
+        "参考速度": "300–500 桶/小时",
+        "适用规格": "圆桶 15–200 L"
+      },
+      "text": "MTW-T50Y 圆桶内套袋机。对圆桶进桶、套袋、翻边与出桶，可配圆桶内提袋封口机。 适用行业：防水材料、颗粒粉末、化学品、食品、医药、新能源。参考速度：300–500 桶/小时。 适用规格：圆桶 15–200 L。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-14",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=14",
+          "page": 14,
+          "locator": "PDF 第 14 页 · 印刷页 23",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "77940a0fa112d1558ea13abe6ab256598f3a717162f9aad79b851a4babe1617b"
+    },
+    {
+      "id": "mtw-tf50y",
+      "kind": "product",
+      "model": "MTW-TF50Y",
+      "models": [
+        "MTW-TF50Y"
+      ],
+      "title": "圆桶内提袋封口机",
+      "category": "套袋封口",
+      "industries": [
+        "防水材料",
+        "颗粒粉末",
+        "化学品",
+        "食品",
+        "医药",
+        "新能源"
+      ],
+      "summary": "面向圆桶内袋的提袋封口，与圆桶内套袋设备组合。",
+      "specs": {
+        "参考速度": "300–500 桶/小时",
+        "适用规格": "圆桶 15–200 L"
+      },
+      "text": "MTW-TF50Y 圆桶内提袋封口机。面向圆桶内袋的提袋封口，与圆桶内套袋设备组合。 适用行业：防水材料、颗粒粉末、化学品、食品、医药、新能源。参考速度：300–500 桶/小时。 适用规格：圆桶 15–200 L。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-14",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=14",
+          "page": 14,
+          "locator": "PDF 第 14 页 · 印刷页 24",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "5586ab6bf246466460876837255757cb64da6200d6e3ab3ad28c42585eb05189"
+    },
+    {
+      "id": "mtw-t50h",
+      "kind": "product",
+      "model": "MTW-T50H",
+      "models": [
+        "MTW-T50H"
+      ],
+      "title": "高速套袋机",
+      "category": "套袋封口",
+      "industries": [
+        "散装水果",
+        "瓶盖压泵",
+        "汽车用品",
+        "坚果食品"
+      ],
+      "summary": "面向较高节拍的容器内套袋，与高速封口等设备配套。",
+      "specs": {
+        "参考速度": "1200–1500 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm",
+        "供电": "380V / 50Hz / 8kW"
+      },
+      "text": "MTW-T50H 高速套袋机。面向较高节拍的容器内套袋，与高速封口等设备配套。 适用行业：散装水果、瓶盖压泵、汽车用品、坚果食品。参考速度：1200–1500 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。 供电：380V / 50Hz / 8kW。",
+      "note": "画册型号 T50H 与官网 T50G 不自动合并。",
+      "sources": [
+        {
+          "id": "catalog-15",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=15",
+          "page": 15,
+          "locator": "PDF 第 15 页 · 印刷页 25",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "2ade21dbb1c0ceabc9c1a69d57ce891ecca03337bbc601d0b6dfed6087d8c29d"
+    },
+    {
+      "id": "mtw-tf50h",
+      "kind": "product",
+      "model": "MTW-TF50H",
+      "models": [
+        "MTW-TF50H"
+      ],
+      "title": "高速封口机",
+      "category": "套袋封口",
+      "industries": [
+        "散装水果",
+        "瓶盖压泵",
+        "汽车用品"
+      ],
+      "summary": "完成提袋、抽气、封口与压袋出箱，可配高速套袋设备。",
+      "specs": {
+        "参考速度": "900–1200 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm"
+      },
+      "text": "MTW-TF50H 高速封口机。完成提袋、抽气、封口与压袋出箱，可配高速套袋设备。 适用行业：散装水果、瓶盖压泵、汽车用品。参考速度：900–1200 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-15",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=15",
+          "page": 15,
+          "locator": "PDF 第 15 页 · 印刷页 26",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "fcef72369f060e7977051cb2c37761200de24f9dc939486d2a1ecd2fd25d2cc8"
+    },
+    {
+      "id": "mtw-jd100",
+      "kind": "product",
+      "model": "MTW-JD100",
+      "models": [
+        "MTW-JD100"
+      ],
+      "title": "产品外套袋机",
+      "category": "套袋封口",
+      "industries": [
+        "家电",
+        "汽车用品"
+      ],
+      "summary": "完成进料、定位、外套袋和出料，适用于产品外包装。",
+      "specs": {
+        "参考速度": "240–300 个/小时",
+        "适用规格": "L600–800 × W600–800 × H600–1000 mm"
+      },
+      "text": "MTW-JD100 产品外套袋机。完成进料、定位、外套袋和出料，适用于产品外包装。 适用行业：家电、汽车用品。参考速度：240–300 个/小时。 适用规格：L600–800 × W600–800 × H600–1000 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-16",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=16",
+          "page": 16,
+          "locator": "PDF 第 16 页 · 印刷页 27",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "10dc3b270f5deecaa6d55c430a107509c207a8ae2aaa6bd3a3bcb7d54dbf208b"
+    },
+    {
+      "id": "mtw-zd50",
+      "kind": "product",
+      "model": "MTW-ZD50",
+      "models": [
+        "MTW-ZD50"
+      ],
+      "title": "自动折袋机",
+      "category": "套袋封口",
+      "industries": [
+        "日用品",
+        "化妆品",
+        "散装水果",
+        "瓶盖压泵",
+        "汽车用品",
+        "医药",
+        "颗粒粉末"
+      ],
+      "summary": "完成提袋、折袋与压料，可配纸箱自动套袋机。",
+      "specs": {
+        "参考速度": "300–720 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm"
+      },
+      "text": "MTW-ZD50 自动折袋机。完成提袋、折袋与压料，可配纸箱自动套袋机。 适用行业：日用品、化妆品、散装水果、瓶盖压泵、汽车用品、医药、颗粒粉末。参考速度：300–720 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。",
+      "note": "不得与官网部分旧页面的 ZD50 扎带机描述无条件合并。",
+      "sources": [
+        {
+          "id": "catalog-16",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=16",
+          "page": 16,
+          "locator": "PDF 第 16 页 · 印刷页 28",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "a0d0971e63481b22a850e47704a95e04355e1e901c375bf5fd2382efc2917fcc"
+    },
+    {
+      "id": "mtw-t50z",
+      "kind": "product",
+      "model": "MTW-T50Z",
+      "models": [
+        "MTW-T50Z"
+      ],
+      "title": "周转筐套袋机",
+      "category": "套袋封口",
+      "industries": [
+        "生鲜肉类",
+        "脱水蔬菜",
+        "烟草"
+      ],
+      "summary": "为周转筐或相应容器内套袋，可配提袋封口、折袋及装箱线。",
+      "specs": {
+        "参考速度": "300–500 个/小时",
+        "适用规格": "L400–600 × W300–500 × H150–300 mm"
+      },
+      "text": "MTW-T50Z 周转筐套袋机。为周转筐或相应容器内套袋，可配提袋封口、折袋及装箱线。 适用行业：生鲜肉类、脱水蔬菜、烟草。参考速度：300–500 个/小时。 适用规格：L400–600 × W300–500 × H150–300 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-17",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=17",
+          "page": 17,
+          "locator": "PDF 第 17 页 · 印刷页 29",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "64b2cdd2f4dd8c44fcdaa0eeb9a2b0f05ae05106721284205b1c24fcce17c90c"
+    },
+    {
+      "id": "mtw-rb50",
+      "kind": "product",
+      "model": "MTW-RB50",
+      "models": [
+        "MTW-RB50"
+      ],
+      "title": "机器人开箱",
+      "category": "装箱开封箱",
+      "industries": [
+        "食品",
+        "日用品",
+        "通用制造"
+      ],
+      "summary": "机器人开箱与折底封底，可与自动包装线衔接。",
+      "specs": {
+        "参考速度": "360–600 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm"
+      },
+      "text": "MTW-RB50 机器人开箱。机器人开箱与折底封底，可与自动包装线衔接。 适用行业：食品、日用品、通用制造。参考速度：360–600 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。",
+      "note": "画册 RB50 不自动等同于官网 JK50 或正文 JK60。",
+      "sources": [
+        {
+          "id": "catalog-17",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=17",
+          "page": 17,
+          "locator": "PDF 第 17 页 · 印刷页 30",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "5e4edc4d3ad5b405ac5931f26b6be6f2e155c9fc9767ccca8e720a1d8b4d36f1"
+    },
+    {
+      "id": "mtw-k40",
+      "kind": "product",
+      "model": "MTW-K40",
+      "models": [
+        "MTW-K40"
+      ],
+      "title": "自动开箱机",
+      "category": "装箱开封箱",
+      "industries": [
+        "食品",
+        "日用品",
+        "通用制造"
+      ],
+      "summary": "纸箱开箱、折底与封底，可单机使用或配包装线。",
+      "specs": {
+        "参考速度": "6–12 箱/分钟",
+        "适用规格": "L250–450 × W100–400 × H100–400 mm"
+      },
+      "text": "MTW-K40 自动开箱机。纸箱开箱、折底与封底，可单机使用或配包装线。 适用行业：食品、日用品、通用制造。参考速度：6–12 箱/分钟。 适用规格：L250–450 × W100–400 × H100–400 mm。",
+      "note": "",
+      "sources": [
+        {
+          "id": "catalog-18",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=18",
+          "page": 18,
+          "locator": "PDF 第 18 页 · 印刷页 31",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "ef6cfe19e8ed27f5e7214dc98498df664d225d762e0363972a99a0fdff597489"
+    },
+    {
+      "id": "mtw-c50",
+      "kind": "product",
+      "model": "MTW-C50",
+      "models": [
+        "MTW-C50"
+      ],
+      "title": "自动折盖封箱机",
+      "category": "装箱开封箱",
+      "industries": [
+        "食品",
+        "日用品",
+        "通用制造"
+      ],
+      "summary": "自动折盖并用胶带封箱。输送速度不可直接转换成箱/分钟。",
+      "specs": {
+        "参考速度": "输送速度 20 m/min",
+        "适用规格": "L200–600 × W150–500 × H150–500 mm"
+      },
+      "text": "MTW-C50 自动折盖封箱机。自动折盖并用胶带封箱。输送速度不可直接转换成箱/分钟。 适用行业：食品、日用品、通用制造。参考速度：输送速度 20 m/min。 适用规格：L200–600 × W150–500 × H150–500 mm。",
+      "note": "画册为输送线速度，箱速与箱长、间距、工艺有关。",
+      "sources": [
+        {
+          "id": "catalog-18",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=18",
+          "page": 18,
+          "locator": "PDF 第 18 页 · 印刷页 32",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "7cfc23f391b49e5106d79231c9660bacb539c98bb6e9ee30956603d2e795e2f0"
+    },
+    {
+      "id": "mtw-t50g",
+      "kind": "product",
+      "model": "MTW-T50G",
+      "models": [
+        "MTW-T50G"
+      ],
+      "title": "高速套袋机（官网）",
+      "category": "套袋封口",
+      "industries": [
+        "油脂化工",
+        "颗粒粉末",
+        "油漆",
+        "水产"
+      ],
+      "summary": "官网展示的高速套袋型号；不能据此保证客户现场的整线节拍。",
+      "specs": {
+        "参考速度": "10–25 箱/分钟（按需定制）",
+        "适用规格": "以实际容器尺寸为准",
+        "供电": "380V / 50Hz / 6kW"
+      },
+      "text": "MTW-T50G 高速套袋机（官网）。官网展示的高速套袋型号；不能据此保证客户现场的整线节拍。 适用行业：油脂化工、颗粒粉末、油漆、水产。参考速度：10–25 箱/分钟（按需定制）。 适用规格：以实际容器尺寸为准。 供电：380V / 50Hz / 6kW。",
+      "note": "与画册 T50H 的命名关系待确认。",
+      "sources": [
+        {
+          "id": "web-t50g",
+          "title": "迈特威官网 · MTW-T50G",
+          "type": "web",
+          "url": "https://www.miteway.com/zxtdj/1002",
+          "locator": "产品参数表",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "7cb95e9374d19563db3cc2050775305e0f17e27ec4fef652e0ff836812b35db1"
+    },
+    {
+      "id": "mtw-ft50",
+      "kind": "product",
+      "model": "MTW-FT50",
+      "models": [
+        "MTW-FT50"
+      ],
+      "title": "纸箱内提袋封口机（官网）",
+      "category": "套袋封口",
+      "industries": [
+        "包装线配套"
+      ],
+      "summary": "官网独立列示的提袋封口型号，与画册 TF50 的配置关系待核实。",
+      "specs": {
+        "参考速度": "240–320 个/小时",
+        "适用规格": "L300–500 × W300–400 × H300–400 mm",
+        "供电": "380V / 50Hz / 6kW"
+      },
+      "text": "MTW-FT50 纸箱内提袋封口机（官网）。官网独立列示的提袋封口型号，与画册 TF50 的配置关系待核实。 适用行业：包装线配套。参考速度：240–320 个/小时。 适用规格：L300–500 × W300–400 × H300–400 mm。 供电：380V / 50Hz / 6kW。",
+      "note": "不可自动按字母相近映射到 TF50。",
+      "sources": [
+        {
+          "id": "web-ft50",
+          "title": "迈特威官网 · MTW-FT50",
+          "type": "web",
+          "url": "https://www.miteway.com/56/2008",
+          "locator": "产品名称与参数表",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业指定审核人）",
+      "content_hash": "8a28a2443d85c80c87d2af21fbdd82bf0cea1831e96ff5073e0259825214ea65"
+    },
+    {
+      "id": "company",
+      "title": "公司背景与主营业务",
+      "kind": "company",
+      "models": [],
+      "category": "企业与服务",
+      "text": "迈特威智能设备（广东）有限公司是画册封面的公司主体。2026画册与官网介绍均载明企业成立于2015年，位于广东省东莞市，业务包括自主研发、生产、销售与服务。官网同时展示广东、深圳名称及上海办事处、马来西亚分公司。主要产品为套袋、折盒、封口、扎带、开封箱及后道包装整线。工商主体、资质有效期和具体合同主体应另行核验。",
+      "sources": [
+        {
+          "id": "catalog-1",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=1",
+          "page": 1,
+          "locator": "PDF 第 1 页 · 印刷页 封底/封面",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "catalog-3",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=3",
+          "page": 3,
+          "locator": "PDF 第 3 页 · 印刷页 01–02",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "web-about",
+          "title": "迈特威官网 · 公司简介",
+          "type": "web",
+          "url": "https://www.miteway.com/32/",
+          "locator": "公司简介",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "content_hash": "c230a1dea1b72fa7960eb9d4f8cfd027c9adb203da1329ddd6bb27105fd61d32"
+    },
+    {
+      "id": "families",
+      "title": "产品家族与应用范围",
+      "kind": "company",
+      "models": [],
+      "category": "企业与服务",
+      "text": "折盒成型：标准飞机盒和天地盖折盒机、热熔胶粘盒机、水果盒折盒机、钉盒机、裹包机、合盖机与成型装盒一体机。套袋封口：纸箱内套袋、圆桶内套袋、周转筐套袋、成品袋套袋、产品外套袋、提袋封口、折袋与扎带。整线配套：机器人开箱、开箱机、装箱机与折盖封箱机。应用覆盖食品、油脂化工、颗粒粉末、瓶盖、家电、电商、医药、新能源等。",
+      "sources": [
+        {
+          "id": "catalog-2",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=2",
+          "page": 2,
+          "locator": "PDF 第 2 页 · 印刷页 目录",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "web-home",
+          "title": "迈特威官网 · 产品与整线案例",
+          "type": "web",
+          "url": "https://www.miteway.com/",
+          "locator": "产品系列与客户案例",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "content_hash": "b82c42fd53cf51e8b794754aceadb057c0f5d63aaf56682c269c1a5be491c36c"
+    },
+    {
+      "id": "line-oil",
+      "title": "油脂后道包装整线",
+      "kind": "solution",
+      "models": [],
+      "category": "整线方案",
+      "text": "2026画册展示全自动油脂包装整线。可组合开箱、套袋、灌装、内袋封口、封箱、检测与码垛等工位，实际工艺与设备组合依产品和客户方案确定。选择方案前需收集物料、温度与粘度、箱桶及袋尺寸、目标产能、现场空间和现有设备接口。画册中的提效与节人成果为宣传案例数据，不能作为任意客户的保证。",
+      "sources": [
+        {
+          "id": "catalog-20",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=20",
+          "page": 20,
+          "locator": "PDF 第 20 页 · 印刷页 35–36",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "web-home",
+          "title": "迈特威官网 · 产品与整线案例",
+          "type": "web",
+          "url": "https://www.miteway.com/",
+          "locator": "产品系列与客户案例",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "industries": [
+        "油脂",
+        "食品"
+      ],
+      "content_hash": "8215da5628d88487d58f3d69cf2c9392f7891bae4d2a13b6fbe91c73b2144eba"
+    },
+    {
+      "id": "line-food",
+      "title": "脱水蔬菜与食品整线",
+      "kind": "solution",
+      "models": [],
+      "category": "整线方案",
+      "text": "2026画册展示脱水蔬菜包装整线，涵盖容器与内袋包装、称重灌装、封口及码垛等组合。食品、瓶盖、肉类、坚果、果蔬等有不同包装需求。选型须明确物料形态、箱或筐或桶、袋型、卫生要求、目标节拍、检测工位与上下游接口。不能用单机的最高宣传速度直接承诺整线稳定产能。",
+      "sources": [
+        {
+          "id": "catalog-19",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=19",
+          "page": 19,
+          "locator": "PDF 第 19 页 · 印刷页 33–34",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "catalog-22",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=22",
+          "page": 22,
+          "locator": "PDF 第 22 页 · 印刷页 39–40",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "industries": [
+        "食品",
+        "脱水蔬菜",
+        "生鲜",
+        "瓶盖",
+        "果蔬"
+      ],
+      "content_hash": "22a0a03a12fde5e2d1a261a550d63f5538be69f184fad4c20cf97ae1b46cdfca"
+    },
+    {
+      "id": "t50-conflict",
+      "title": "MTW-T50 跨来源参数差异",
+      "kind": "conflict",
+      "models": [
+        "MTW-T50"
+      ],
+      "category": "企业与服务",
+      "text": "同名MTW-T50在2026画册与官网产品参数中存在差异。画册印刷页19（PDF第12页）：360–480个/小时，380V/50Hz/8kW；官网产品页：300–1200个/小时（可定制），380V/60Hz/3kW。两个范围和供电字段不可拼接成一套参数，也不可仅按网页抓取日期决定设备真实配置。须以设备铭牌、序列号、合同技术协议和企业确认的现行配置为准。",
+      "sources": [
+        {
+          "id": "catalog-12",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=12",
+          "page": 12,
+          "locator": "PDF 第 12 页 · 印刷页 19",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "web-t50",
+          "title": "迈特威官网 · MTW-T50",
+          "type": "web",
+          "url": "https://www.miteway.com/zxtdj/1003",
+          "locator": "产品参数表",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "content_hash": "a756de20ebf0d5169644faaf28504d3ad7caad662f18961dab83098c2618d69e"
+    },
+    {
+      "id": "model-conflict",
+      "title": "型号名称与版本须精确核对",
+      "kind": "conflict",
+      "models": [],
+      "category": "企业与服务",
+      "text": "画册与官网存在命名差异：画册高速套袋 T50H 与官网 T50G；画册提袋封口 TF50 与官网 FT50；画册机器人开箱 RB50 与官网列表 JK50（正文另写 JK60）；画册 TZ50 为扎带机、ZD50 为折袋机，而官网部分页面把 ZD50 用于扎带机。仅凭相似字母不能确认同机型、同配置或可替换。",
+      "sources": [
+        {
+          "id": "catalog-13",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=13",
+          "page": 13,
+          "locator": "PDF 第 13 页 · 印刷页 21–22",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "catalog-15",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=15",
+          "page": 15,
+          "locator": "PDF 第 15 页 · 印刷页 25–26",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "catalog-16",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=16",
+          "page": 16,
+          "locator": "PDF 第 16 页 · 印刷页 27–28",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "catalog-17",
+          "title": "2026 迈特威画册.pdf",
+          "type": "catalog",
+          "url": "/files/catalog#page=17",
+          "page": 17,
+          "locator": "PDF 第 17 页 · 印刷页 29–30",
+          "version": "2026 画册（按文件名标识，发行日未载明）",
+          "accessed_at": "2026-11-20"
+        },
+        {
+          "id": "web-home",
+          "title": "迈特威官网 · 产品与整线案例",
+          "type": "web",
+          "url": "https://www.miteway.com/",
+          "locator": "产品系列与客户案例",
+          "version": "网页检索快照 2026-11-20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "content_hash": "c9d84638f44c4a1ce8be574d7c0ce8e40e57059921b54f76c5abc0fab33ea1ab"
+    },
+    {
+      "id": "scope",
+      "title": "本演示客服范围与资料缺口",
+      "kind": "policy",
+      "models": [],
+      "category": "企业与服务",
+      "text": "本项目为开发模拟：可回答企业与产品资料、按公开规格做初步候选建议、收集需求、记录报修和创建本地模拟工单。缺少经企业批准的报警码表、维护手册、SOP、真实报价、库存、订单、合同和保修条款，不提供确定故障诊断、维修步骤、价格、交期、订单查询结果或保修结论。安全联锁、电气带电操作、拆护罩运行、PLC安全参数等需交由专业人员。",
+      "sources": [
+        {
+          "id": "demo-scope",
+          "title": "演示范围说明（开发设定）",
+          "type": "demo_policy",
+          "url": "/guide#scope",
+          "locator": "开发设定；不代表厂家政策",
+          "version": "demo-2026.11.20",
+          "accessed_at": "2026-11-20"
+        }
+      ],
+      "version": "demo-2026.11.20",
+      "visibility": "public",
+      "review_status": "demo_reviewed",
+      "effective_date": null,
+      "owner": "演示资料整理（待企业审核）",
+      "content_hash": "2daba06defd295f973aae5e1258c0b1b717fbe56dda02749bae64b5ec2bc1322"
+    }
+  ],
+  "design_input": {
+    "title": "企业专属AI助手商业计划书.docx",
+    "visibility": "design_only",
+    "indexed_for_customer": false,
+    "notes": "用于限定试点范围、来源展示、资料缺失升级及知识治理设计，不提供给对客检索和外部模型。"
+  },
+  "gaps": [
+    "经批准的操作与维修手册",
+    "按型号和控制器版本划分的报警码表",
+    "SOP与保养计划",
+    "维修工单及闭环案例",
+    "价格、保修、交期与备件政策",
+    "企业账号权限与真实工单接口"
+  ]
+}

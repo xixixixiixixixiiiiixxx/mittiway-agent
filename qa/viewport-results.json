@@ -1,0 +1,38 @@
+[
+  {
+    "bodyWidth": 1440,
+    "height": 1000,
+    "horizontalOverflow": false,
+    "inputInViewport": true,
+    "sendInViewport": true,
+    "visibleView": "view-chat",
+    "width": 1440
+  },
+  {
+    "bodyWidth": 1024,
+    "height": 768,
+    "horizontalOverflow": false,
+    "inputInViewport": true,
+    "sendInViewport": true,
+    "visibleView": "view-chat",
+    "width": 1024
+  },
+  {
+    "bodyWidth": 768,
+    "height": 1024,
+    "horizontalOverflow": false,
+    "inputInViewport": true,
+    "sendInViewport": true,
+    "visibleView": "view-chat",
+    "width": 768
+  },
+  {
+    "bodyWidth": 375,
+    "height": 850,
+    "horizontalOverflow": false,
+    "inputInViewport": true,
+    "sendInViewport": true,
+    "visibleView": "view-chat",
+    "width": 375
+  }
+]
